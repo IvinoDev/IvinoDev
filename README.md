@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **IA projects.**
 
-- 👨‍💻 All of my projects are available at [https://portfolioweb-cde02.web.app/](https://portfolioweb-cde02.web.app/)
+- 👨‍💻 All of my projects are available at [https://mkayantao.web.app/](https://mkayantao.web.app)
 
 - 📫 How to reach me **mariamkayantao@gmail.com**
 
