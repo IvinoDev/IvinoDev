@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI and Data Science.**
 
-- 👯 I’m looking to collaborate on **IA projects.**
+- 👯 I’m looking to collaborate on **AI projects.**
 
 - 👨‍💻 All of my projects are available at **[https://mkayantao.web.app](https://mkayantao.web.app)**
 
